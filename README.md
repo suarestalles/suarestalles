@@ -1,19 +1,14 @@
 ### Hello 👋 I'm Talles Suares!
 
 - 👨🏻‍💻 I’m currently working on TI Assistent;
-- 📚 I’m currently learning JavaScript;
+- 📚 I’m currently learning JavaScript and React Native;
 - 😄 Pronouns: him/his.
 
-<div>
-  <a href="https://github.com/suarestalles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suarestalles&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suarestalles&layout=demo&langs_count=16&theme=transparent&bg_color=0,000000,004daa&text_color=fff"/>
-</div>
-
-<div style="display: inline-block"><br>
+<div><br>
   <img align="center" alt="Talles-HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Talles-CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Talles-HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Talles-CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ##
