@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Talles Suares!
 
-- 👨🏻‍💻 I’m currently working on TI Assistent;
-- 📚 I’m currently learning JavaScript and React Native;
+- 👨🏻‍💻 I’m currently working on Junior Developer;
+- 📚 I’m currently learning Flutter and Java with SpringBoot;
 - 😄 Pronouns: him/his.
 
 <div><br>
