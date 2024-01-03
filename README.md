@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Talles Suares!
 
 - 👨🏻‍💻 I’m currently working on Junior Developer;
-- 📚 I'm currently studying Java with SpringBoot, Flutter, and as soon as possible I want to enter the world of Python using the Django framework;
+- 📚 I'm currently studying Python and DJango Framework;
 - 😄 Pronouns: him/his.
 
 <div><br>
