@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Talles Suares!
 
-- 👨🏻‍💻 I’m currently working on Junior Developer;
+- 👨🏻‍💻 I'm currently working as a Junior Backend Developer using Python language with FastAPI;
 - 📚 I'm currently studying Python and DJango Framework;
 - 😄 Pronouns: him/his.
 
