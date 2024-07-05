@@ -21,6 +21,6 @@
 ### Follow me on:
 
 <div>
-  <a href="https://www.instagram.com/suarestalles/" target="_blank"><img src="https://img.shields.io/badge/Instagram-962fbf?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+<!--  <a href="https://www.instagram.com/suarestalles/" target="_blank"><img src="https://img.shields.io/badge/Instagram-962fbf?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/talles-suares-nascimento-980315219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
