@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Talles Suares!
 
 - 👨🏻‍💻 I currently work as a Junior Full Stack Developer using Python language with FastAPI on the backend and Flutter on the frontend;
-<!--- 📚 I currently studying ; -->
+- 📚 I currently studying AI Specialization at UTFPR; 
 - 😄 Pronouns: him/his.
 
 <div><br>
